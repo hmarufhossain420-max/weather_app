@@ -1,6 +1,11 @@
 import requests
 import streamlit as st
 
+st.set_page_config(
+    page_title="My Weather App",
+    page_icon="⛅",
+)
+
 st.title("🌤️ Simple Weather App MADE BY BC MARUF")
 st.write("a bukachuda city dis naile kick khabi")
 
