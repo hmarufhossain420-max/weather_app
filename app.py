@@ -6,8 +6,8 @@ st.set_page_config(
     page_icon="icon.png",
 )
 
-st.title("🌤️ Simple Weather App MADE BY BC MARUF")
-st.write("a bukachuda city dis naile kick khabi")
+st.title("GET YOU WEATHER BY DONATING 100 TAKA TO 01733577467 THIS NUM")
+st.write("NOW YOU CAN GOON BASED ON WEATHER DEMAND")
 
 api = "d2634743380898849931b9a0fc9c3c1b"
 user_input = st.text_input("Enter your city:")
