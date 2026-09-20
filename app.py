@@ -3,7 +3,7 @@ import streamlit as st
 
 st.set_page_config(
     page_title="My Weather App",
-    page_icon="⛅",
+    page_icon="icon.png",
 )
 
 st.title("🌤️ Simple Weather App MADE BY BC MARUF")
